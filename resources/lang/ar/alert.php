@@ -1,0 +1,42 @@
+<?php
+return[
+    'Success'=>'تم بنجاح',
+    'Fail'=>'لم يتم تنفيذ الأمر',
+    'Ask' =>'أسأل سؤالك ',
+    'UnsolvedQuestions' =>'الأسئله الغير مجاب عليها  ',
+    'home'=>'الرئيسية',
+    'register'=>'إنشاء حساب',
+    'login'=>'تسجيل الدخول',
+    'AdminController'=>'لوحه التحكم',
+    'YourQuestions'=>'أسألتي',
+    'Logout'=>'تسجيل الخروج',
+    'search'=>'بحــث',
+    'uncheck'=>'قم بأنشاء حساب او تسجيل الدخول لرؤيه الاسئله',
+    'welcome'=>'مرحبا بعودتك ',
+    'loginForm'=>' تسجيل الدخول:',
+    'Username'=>'أسم المستخدم',
+    'Password'=>'الرقم السري',
+    'RegisterForm'=>'إنشاء حساب',
+    'YourUsername'=>'أسم المستخدم',
+    'PasswordConfirm'=>'تأكيد الرقم السري ',
+    'Askform'=>'تـم',
+    'questions'=>' أسـأله',
+    'Show'=>'عرض',
+    'Delete'=>'حذف',
+    'Edit'=>'تعديل',
+    'WriteYourAnswer'=>'إضافه إجابه',
+    'previousAnswers'=>'الإجابات السابقه',
+    'YourOriginalQuestionIs'=>'السؤال الأصلي هو',
+    'EditYourQuestion'=>'تعديل السؤال',
+    'Solved'=>'تم الاجابه',
+    'Control'=>'تحكم',
+    'ID'=>'الرقم',
+    'Question'=>'السؤال',
+    'QuestionsControl'=>'لوحه تحكم الأسئله ',
+    'UsersControl'=>'تحكم المستخدمين ',
+    'makeAdmin'=>'أدمن',
+    'Submit'=>'تم'
+
+
+
+];
